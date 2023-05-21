@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Benim İşim</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps_activityisara">MapsActivityisara</string>
+    <string name="title_activity_maps_activitykonumal">MapsActivitykonumal</string>
+</resources>

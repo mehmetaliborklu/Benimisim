@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="1.4416666666666667" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/alertdialog.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/alertdialogbutton.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/arkaplan.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/buttonback.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/constraitmainback.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/cscslayout.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/girisactivitybackground.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/girisbackground2.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/girisbutton.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/gradient1.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/gradient2.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/gradient3.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/gradientlist.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="1.4416666666666667" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/ic_baseline_business_center_24.xml" value="1.4416666666666667" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/ic_baseline_location2_on_24.xml" value="1.4416666666666667" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="1.4416666666666667" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/ic_baseline_login_24.xml" value="1.4416666666666667" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="1.4416666666666667" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/ic_launcher_background.xml" value="1.4416666666666667" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/iconshape.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/isverback.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/resetpassword.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/drawable/yakinilanlarlayout.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_activityisver.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_detay.xml" value="0.536" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_ilanlarimactivity.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_main.xml" value="0.536" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_main_giris.xml" value="0.536" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_main_kayitol.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_maps_activityisara.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_resetactivity.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_yakinilan.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/activity_yakinilandetay.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/cardtasarim.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/dialoglayout.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-hdpi/yakinilanlarcard.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_activityisver.xml" value="0.8532110091743119" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_detay.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_ilanlarimactivity.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_main.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_main_giris.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_main_kayitol.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_maps_activityisara.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_resetactivity.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_yakinilan.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/activity_yakinilandetay.xml" value="1.0" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/cardtasarim.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/dialoglayout.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-ldpi/yakinilanlarcard.xml" value="1.453125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_activityisver.xml" value="0.96875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_detay.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_ilanlarimactivity.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_main.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_main_giris.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_main_kayitol.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_maps_activityisara.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_resetactivity.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_yakinilan.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/activity_yakinilandetay.xml" value="0.6" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/cardtasarim.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/dialoglayout.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-mdpi/yakinilanlarcard.xml" value="0.58125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_activityisver.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_detay.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_ilanlarimactivity.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_main_giris.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_main_kayitol.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_maps_activityisara.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_resetactivity.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_yakinilan.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/activity_yakinilandetay.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/cardtasarim.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/dialoglayout.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xhdpi/yakinilanlarcard.xml" value="0.36328125" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_activityisver.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_detay.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_ilanlarimactivity.xml" value="0.17640364188163885" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_main_giris.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_main_kayitol.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_maps_activityisara.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_resetactivity.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_yakinilan.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/activity_yakinilandetay.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/cardtasarim.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/dialoglayout.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxhdpi/yakinilanlarcard.xml" value="0.2152777777777778" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_activityisver.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_detay.xml" value="0.2" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_ilanlarimactivity.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_main.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_main_giris.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_main_kayitol.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_maps_activityisara.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_resetactivity.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_yakinilan.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/activity_yakinilandetay.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/cardtasarim.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/dialoglayout.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout-xxxhdpi/yakinilanlarcard.xml" value="0.181640625" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_activityisver.xml" value="0.2" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_detay.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_ilanlarimactivity.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_main.xml" value="0.17640364188163885" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_main_giris.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_main_kayitol.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_maps.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_maps_activityisara.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_maps_activitykonumal.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_resetactivity.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_yakinilan.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/activity_yakinilandetay.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/alertlayout.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/cardtasarim.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/dialoglayout.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/infowindow.xml" value="0.72" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/layout/yakinilanlarcard.xml" value="0.2421875" />
+        <entry key="..\:/Users/Hp/Documents/Benimisim2/app/src/main/res/menu/toolbarmenu.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
